@@ -23,8 +23,6 @@
 
 ----
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g7n6ipa9m54w9fq250hy6cfja&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2bff00)](https://github.com/kittinan/spotify-github-profile)
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g7n6ipa9m54w9fq250hy6cfja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
