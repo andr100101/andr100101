@@ -15,12 +15,15 @@
 
 ----
 
-*Redes Sociais e Contato:*
+*Entre em Contato 😎:*
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Liekzik)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrr.e.e.e)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluizreis2906@gmail.com)
 
 
 
+----
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g7n6ipa9m54w9fq250hy6cfja&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2bff00)](https://github.com/kittinan/spotify-github-profile)
 
 
 
