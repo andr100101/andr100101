@@ -4,7 +4,7 @@
 
   * 👨‍🎓Cursando Sistemas de Informação - UNIUV
   * 👨‍💻Foco em Lógica de programção e estrutura de dados
-
+  Iniciando na área mas com disposição para aprender e agregar cada vez mais.
 ----
 
 **Habilidades 🚀:**
