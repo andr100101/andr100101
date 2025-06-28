@@ -9,7 +9,11 @@
 
 *Habilidades 🚀:*
 
-![python_logo](https://github.com/user-attachments/assets/46a5f166-de19-4ba6-8493-df1e7c6959f9) ![HTML5_logo](https://github.com/user-attachments/assets/13575995-91b8-4e01-8746-b2203659d902) ![CSS3_logo](https://github.com/user-attachments/assets/443e0f73-5a0b-425e-8fb2-61984027c530) ![bootstrap 5.3 logo](https://github.com/user-attachments/assets/45044d47-06a6-4364-8b39-38fc5d2fae0f)
+![python](https://github.com/user-attachments/assets/537f7eff-4895-45c6-8b2f-f12a19868ebf) ![html](https://github.com/user-attachments/assets/35c92784-3740-4239-aeb0-9a6495bb98ac)![css](https://github.com/user-attachments/assets/e7f6af9f-bad1-430e-85fe-0211d6077309)![bootstrap](https://github.com/user-attachments/assets/95cce9f5-f41f-46b4-8e07-979cec4be758)
+
+
+
+
 
 
 
