@@ -1,12 +1,9 @@
 ![Bem vindo!](https://github.com/user-attachments/assets/63ddc132-6761-48ce-a489-676437035cce)
-
+----
 **Sobre mim 💻:**
 
   * 👨‍🎓Cursando Sistemas de Informação - UNIUV
   * 👨‍💻Foco em Lógica de programção e estrutura de dados
-
-----
-  Iniciando na área mas com disposição para aprender e agregar cada vez mais.
 ----
 
 **Habilidades 🚀:**
