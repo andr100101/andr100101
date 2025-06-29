@@ -7,7 +7,8 @@
 <h2> Sobre mim 💻:</h2>
 
   * 👨‍🎓Cursando Sistemas de Informação - UNIUV
-  * 👨‍💻Foco em Lógica de programção e estrutura de dados
+    
+  * 👨‍💻Foco em Lógica de programação e estrutura de dados
 
 </div>
 <div id="habilidades">
