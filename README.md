@@ -19,6 +19,8 @@
 
 <div align=center id="Contato">
 
+<h2> Contato ✉️: </h2>
+
 <a href="https://www.linkedin.com/in/andrreis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href=mailto:andreluizreis2906@gmail.com><img src="https://img.shields.io/badge/andreluizreis2906@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white"></a>
 </div>
@@ -32,11 +34,13 @@
 
 
 <div align=center>
-<h2> Visitantes : </h2>
+<h2> Visitantes 🧑: </h2>
 <img src = "https://profile-counter.glitch.me/andr100101/count.svg">
 </div>
 
 <div id="outrasRedes">
+
+<h2> Outras redes 🛜: </h2>
 <a href="https://x.com/Liekzik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/Liekzik"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
