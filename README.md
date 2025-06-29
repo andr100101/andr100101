@@ -1,5 +1,7 @@
-![Bem vindo!](https://github.com/user-attachments/assets/63ddc132-6761-48ce-a489-676437035cce)      
-----
+<div>
+ <img src="https://github.com/user-attachments/assets/63ddc132-6761-48ce-a489-676437035cce" alt="Bem vindo(a)!">
+</div>      
+
 <h2> Sobre mim 💻:</h2>
 
   * 👨‍🎓Cursando Sistemas de Informação - UNIUV
