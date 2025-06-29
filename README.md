@@ -1,4 +1,11 @@
-
+<head>
+<style>
+ #top{
+  background-color: rgb(40, 0, 87);
+ }
+ 
+</style>
+</head>
 <body>
 <div id="top">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=2CF700&width=435&lines=Seja+bem+vindo+%3A)" alt="Typing SVG" /></a>
