@@ -16,11 +16,14 @@
 
 
 ----
-
+<a href=https://instagram.com/andrr.e.e.e><img src="[https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"></a>
 <h2> Entre em Contato 😎: </h2>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Liekzik)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrr.e.e.e)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrreis/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluizreis2906@gmail.com)
+<a href="https://x.com/Liekzik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
+<a href="https://www.linkedin.com/in/andrreis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href=mailto:andreluizreis2906@gmail.com><img src="https://img.shields.io/badge/andreluizreis2906@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white"></a>
 
 
 ----
