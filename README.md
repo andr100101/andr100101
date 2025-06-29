@@ -43,6 +43,7 @@
 <h2> Outras redes 🛜: </h2>
 <a href="https://x.com/Liekzik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/Liekzik"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://instagram.com/andrr.e.e.e"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
  
 </div>
