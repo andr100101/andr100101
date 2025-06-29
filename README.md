@@ -1,4 +1,4 @@
-![Bem vindo!](https://github.com/user-attachments/assets/63ddc132-6761-48ce-a489-676437035cce)      **Contagem de Visitantes :**![Contagem de Visitantes](https://profile-counter.glitch.me/andr100101/count.svg)
+![Bem vindo!](https://github.com/user-attachments/assets/63ddc132-6761-48ce-a489-676437035cce)      
 ----
 **Sobre mim 💻:**
 
@@ -30,6 +30,9 @@
 
 
 ----
+
+**Contagem de Visitantes :
+**![Contagem de Visitantes](https://profile-counter.glitch.me/andr100101/count.svg)
 
 
 
