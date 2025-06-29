@@ -1,8 +1,5 @@
 <head>
 <style>
- #top{
-  background-color: rgb(40, 0, 87);
- } 
 </style>
 </head>
 <body>
