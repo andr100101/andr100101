@@ -1,10 +1,12 @@
+
+<body>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=2CF700&width=435&lines=Seja+bem+vindo+%3A)" alt="Typing SVG" /></a>
 
 <h2> Sobre mim 💻:</h2>
 
   * 👨‍🎓Cursando Sistemas de Informação - UNIUV
   * 👨‍💻Foco em Lógica de programção e estrutura de dados
-----
+
 
 <h2> Habilidades 🚀: </h2>
 
@@ -13,7 +15,7 @@
 
 
 
-----
+
 <a href=https://instagram.com/andrr.e.e.e><img src="[https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"></a>
 <h2> Entre em Contato 😎: </h2>
 
@@ -23,16 +25,17 @@
 <a href=mailto:andreluizreis2906@gmail.com><img src="https://img.shields.io/badge/andreluizreis2906@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white"></a>
 </div>
 
-----
+
 
 <h2> Ouvindo no Spotify 🎼: </h2>
 
 <a href=https://open.spotify.com/user/g7n6ipa9m54w9fq250hy6cfja><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g7n6ipa9m54w9fq250hy6cfja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"></a>
 
 
-----
+
 <div align=center>
 <h2> Visitantes : </h2>
 <img src = "https://profile-counter.glitch.me/andr100101/count.svg">
 </div>
+</body>
 
