@@ -30,10 +30,8 @@
 
 
 ----
-
-<h2 align = "center"> Visitantes : </h2>
-
-<img src = "https://profile-counter.glitch.me/andr100101/count.svg" align=center>
-
-
+<div align=center>
+<h2> Visitantes : </h2>
+<img src = "https://profile-counter.glitch.me/andr100101/count.svg">
+</div>
 
