@@ -31,8 +31,9 @@
 
 ----
 
-**Contagem de Visitantes :
-**![Contagem de Visitantes](https://profile-counter.glitch.me/andr100101/count.svg)
+**Contagem de Visitantes :**
+
+![Contagem de Visitantes](https://profile-counter.glitch.me/andr100101/count.svg)
 
 
 
