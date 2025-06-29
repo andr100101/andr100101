@@ -32,7 +32,8 @@
 ----
 
 <h2 align = "center"> Visitantes : </h2>
-[![Visitantes](https://profile-counter.glitch.me/{andr100101}/count.svg)]
+
+<img src = "https://profile-counter.glitch.me/{andr100101}/count.svg)" align=center>
 
 
 
