@@ -31,9 +31,7 @@
 
 ----
 
-**Contagem de Visitantes :**
-
-![Contagem de Visitantes](https://profile-counter.glitch.me/andr100101/count.svg)
+<h1 align = "center"> Visitantes : </h1>
 
 
 
