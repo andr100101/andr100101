@@ -1,6 +1,4 @@
 <head>
-<style>
-</style>
 </head>
 <body>
 <div id="top">
