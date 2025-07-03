@@ -24,7 +24,7 @@
 <h2> Contato ✉️: </h2>
 
 <a href="https://www.linkedin.com/in/andrreis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=mailto:andreluizreis2906@gmail.com><img src="https://img.shields.io/badge/andreluizreis2906@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white"></a>
+<a href=mailto:contactandrereis@gmail.com><img src="https://img.shields.io/badge/contactandrereis@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white"></a>
 </div>
 
 
