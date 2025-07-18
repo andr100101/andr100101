@@ -34,11 +34,6 @@
 <a href=https://open.spotify.com/user/g7n6ipa9m54w9fq250hy6cfja><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g7n6ipa9m54w9fq250hy6cfja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"></a>
 
 
-
-<div align=center>
-<a href="https://strava.com/athletes/141533387" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
-</div>
-
 <div id="outrasRedes">
 
 <h2> Outras redes 🛜: </h2>
