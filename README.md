@@ -36,8 +36,13 @@
 
 
 <div align=center>
-<h2> Visitantes 🧑: </h2>
-<img src = "https://profile-counter.glitch.me/andr100101/count.svg">
+<style>
+  .strava-badge- { display: inline-block; height: 48px; }
+  .strava-badge- img { visibility: hidden; height: 48px; }
+  .strava-badge-:hover { background-position: 0 -63px; }
+  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
+</style>
+<a href="https://strava.com/athletes/141533387" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
 </div>
 
 <div id="outrasRedes">
