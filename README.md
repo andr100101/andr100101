@@ -28,12 +28,6 @@
 </div>
 
 
-
-<h2> Ouvindo no Spotify 🎼: </h2>
-
-<a href=https://open.spotify.com/user/g7n6ipa9m54w9fq250hy6cfja><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g7n6ipa9m54w9fq250hy6cfja&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"></a>
-
-
 <div id="outrasRedes">
 
 <h2> Outras redes 🛜: </h2>
