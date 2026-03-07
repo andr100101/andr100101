@@ -8,7 +8,7 @@
 
   * 👨‍🎓Cursando Bacharelado em Sistemas de Informação - Unespar
     
-  * 👨‍💻Foco Backend e Bancos de Dados
+  * 👨‍💻Foco em Backend e Bancos de Dados
 
 </div>
 <div id="habilidades">
