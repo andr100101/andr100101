@@ -6,16 +6,16 @@
 
 <h2> Sobre mim 💻:</h2>
 
-  * 👨‍🎓Cursando Sistemas de Informação - UNIUV
+  * 👨‍🎓Cursando Bacharelado em Sistemas de Informação - Unespar
     
-  * 👨‍💻Foco em Lógica de programação e estrutura de dados
+  * 👨‍💻Foco Backend e Bancos de Dados
 
 </div>
 <div id="habilidades">
 <h2> Habilidades 🚀: </h2>
 
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop"> <img src="https://github.com/user-attachments/assets/98731868-b77e-4770-b41f-6243691b1742" alt="Corel Draw">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
 </div>
 
