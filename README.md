@@ -24,13 +24,6 @@
 <a href="https://www.linkedin.com/in/andrreis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href=mailto:contactandrereis@gmail.com><img src="https://img.shields.io/badge/contactandrereis@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white"></a>
 </div>
-
-
-<div id="outrasRedes">
-
-<h2> Outras redes 🛜: </h2>
-<a href="https://x.com/Liekzik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/Liekzik"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://instagram.com/andrr.e.e.e"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
