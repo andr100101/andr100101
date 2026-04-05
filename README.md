@@ -4,7 +4,7 @@
 <div id="top">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
 
-<h2> Sobre mim 💻:</h2>
+<h2> About me 💻:</h2>
 
   * 👨‍🎓Bachelor's degree in information systems
     
